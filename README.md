@@ -10,9 +10,7 @@ A sleek and modern Flutter application that provides real-time weather informati
 - **Detailed Weather Info**: Displays temperature (in Celsius), weather description, humidity, and wind speed.
 - **Loading State**: Includes a circular progress indicator while fetching data from the API.
 
-## Screenshots
-
-*(Add screenshots here)*
+ 
 
 ## Getting Started
 
