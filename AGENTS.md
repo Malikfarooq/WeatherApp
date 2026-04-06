@@ -1,0 +1,1 @@
+Always follow clean architect and jetpack compose
